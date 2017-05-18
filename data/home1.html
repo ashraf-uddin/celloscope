@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+.split-list ul{
+  float: left;
+  margin-left: 1em;
+}
+.split-list li{
+  padding-right: 2em;
+  line-height: 1.5em;
+  @include font-size(12px);
+ }
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+$(function() {
+    var num_cols = 3,
+    container = $('.split-list'),
+    listItem = 'li',
+    listClass = 'sub-list';
+    container.each(function() {
+        var items_per_col = new Array(),
+        items = $(this).find(listItem),
+        min_items_per_col = Math.floor(items.length / num_cols),
+        difference = items.length - (min_items_per_col * num_cols);
+        for (var i = 0; i < num_cols; i++) {
+            if (i < difference) {
+                items_per_col[i] = min_items_per_col + 1;
+            } else {
+                items_per_col[i] = min_items_per_col;
+            }
+        }
+        for (var i = 0; i < num_cols; i++) {
+            $(this).append($('<ul ></ul>').addClass(listClass));
+            for (var j = 0; j < items_per_col[i]; j++) {
+                var pointer = 0;
+                for (var k = 0; k < i; k++) {
+                    pointer += items_per_col[k];
+                }
+                $(this).find('.' + listClass).last().append(items[j + pointer]);
+            }
+        }
+    });
+});
+</script>
+
+</head>
+
+<body>
+
+<ul class="split-list">
+  <li>list Item 1</li>
+  <li>list Item 2</li>
+  <li>list Item 3</li>
+  <li>list Item 4</li>
+  <li>list Item 5</li>
+  <li>list Item 6</li>
+  <li>list Item 7</li>
+  <li>list Item 8</li>
+  <li>list Item 9</li>
+  <li>list Item 10</li>
+  <li>list Item 11</li>
+  <li>list Item 12</li>
+  <li>list Item 11</li>
+  <li>list Item 12</li>
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,107 @@
+<p id="p1">
+Celloscope Banking Platform is an open architecture and extensible banking services platform which supports and enables a number of key features for a bank under a single platform. The key components of Celloscope Banking Platform are best visualized through the feature and component diagram below. As depicted key component of Celloscope Banking Platform are </br>
+
+</p>
+
+
+<ul id=list>
+<li>Core Transaction Component</li>
+<li>Accounting Component</li>
+<li>Business Rule Processor</li>
+<li>Security Component</li>
+<li>Compliance Component</li>
+<li>Banking Product Engine</li>
+<li>Delivery Channel Engine</li>
+<li>Customer and Account Management Engine</li>
+<li>External System Integration Engine</li>
+<li>Systems Management Component</li>
+<li>Portal and Dashboard</li>
+<li>Reporting Engine</li>
+</ul>
+
+
+
+
+	<div>
+	    <section id="home">
+		<h1>SOLUTION</h1>
+		<div id="content">
+		</div>
+		<div id="list"><ul id="list-item1">
+		</ul></div>
+		<div id="list"><ul id="list-item2">
+		</ul></div>
+		</div>
+<div class="row text-center">
+                <div class="col-md-3">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-cogs fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Functional Features</h4>
+                    <p class="text-muted"></p>
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-users fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">3rd Party Integration Options</h4>
+                    <p class="text-muted"></p>
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-sitemap fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Technical Features</h4>
+                    <p class="text-muted"></p>
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-unlock fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">A Few Real Life Solutions</h4>
+                    <p class="text-muted"></p>
+                    </a>
+                </div>
+            </div>
+            </section>
+	</div>
+
+
+
+            <section id="platform">
+		<h1>PLATFORM</h1>
+               <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
+
+
+	    </section>
+
+
+            <section id="about">
+		<h1>ABOUT</h1>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
+
+
+            </section>
+            <section id="contact">
+		<h1>CONTACT</h1>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
+
+
+            </section>
